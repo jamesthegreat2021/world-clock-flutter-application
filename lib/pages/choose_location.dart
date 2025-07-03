@@ -13,6 +13,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
   //this runs when the function is first initialized
   void initState() {
     super.initState();
+    print('this is the sample project');
 
   }
   @override
